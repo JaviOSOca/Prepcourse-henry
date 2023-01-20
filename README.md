@@ -1,2 +1,1 @@
-# Prepcourse-henry
-Ensayo del curso 2 del curso preparatorio de henry
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
